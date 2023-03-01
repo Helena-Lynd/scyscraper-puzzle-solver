@@ -1,0 +1,13 @@
+File: data/test4.txt
+Debug: false
+Initial config:
+  1 1 1
+  ------
+1|. . .|1
+1|. . .|1
+1|. . .|1
+  ------
+  1 1 1
+
+No solution
+Elapsed time: 0.003 seconds.

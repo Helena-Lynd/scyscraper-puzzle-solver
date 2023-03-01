@@ -1,0 +1,19 @@
+File: data/test14.txt
+Debug: false
+Initial config:
+  1 2
+  ----
+1|. .|2
+2|. .|1
+  ----
+  2 1
+
+Solution:
+  1 2
+  ----
+1|2 1|2
+2|1 2|1
+  ----
+  2 1
+
+Elapsed time: 0.001 seconds.

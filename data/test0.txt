@@ -1,0 +1,12 @@
+4
+1 2 4 2
+3 3 1 2
+4 2 1 2
+1 2 3 3
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+
+This is the board from problem solving.  It is 4x4 with no cells initially
+populated with no skyscrapers.
