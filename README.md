@@ -1,7 +1,7 @@
 # skyscraper-puzzle-solver
 A Java program that solves a given skyscraper puzzle using a breadth-first search algorithm.
 
-![ProgramResults](https://github.com/Helena-Lynd/skyscraper-puzzle-solver/blob/main/scyscraper-output.png?raw=true)
+![ProgramResults](https://github.com/Helena-Lynd/skyscraper-puzzle-solver/blob/main/skyscraper-output.png?raw=true)
 
 ## Description<br>
 A skyscraper puzzle is a grid-based number puzzle similar to soduku. The rules are:
