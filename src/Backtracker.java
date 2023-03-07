@@ -6,6 +6,7 @@ import java.util.Optional;
  * solution, if one exists.
  * 
  * @author RIT CS
+ * @author Helena Lynd
  */
 public class Backtracker {
     /** Should debug output be enabled */
