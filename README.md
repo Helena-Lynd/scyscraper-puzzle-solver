@@ -1,5 +1,5 @@
 # skyscraper-puzzle-solver
-A Java program that solves a given scyscraper puzzle using a breadth-first search algorithm.
+A Java program that solves a given skyscraper puzzle using a breadth-first search algorithm.
 
 ![ProgramResults](https://github.com/Helena-Lynd/skyscraper-puzzle-solver/blob/main/scyscraper-output.png?raw=true)
 
