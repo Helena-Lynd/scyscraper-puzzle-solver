@@ -4,7 +4,12 @@ A Java program that solves a given scyscraper puzzle using a breadth-first searc
 ![ProgramResults](https://github.com/Helena-Lynd/scyscraper-puzzle-solver/blob/main/scyscraper-output.png?raw=true)
 
 ## Description<br>
-Description
+A scyscraper puzzle is a grid-based number puzzle similar to soduku. The rules are:
+- Numbers inside the grid represent the size of the scyscrapers, with the smallest height bring represented by 1 and increasing up to the number of rows.
+- A skyscraper can only be seen if it is not behind a larger skyscraper. 
+- Each number can only be used once per row and column. Numbers line the side of the grid that state how many scyscrapers should be seen.<br>
+![SkyScraper Puzzle Example](https://www.conceptispuzzles.com/picture/11/3846.jpg)<br>
+This program uses a breadth-first search algorithm to solve any scyscraper puzzle.
 
 ## Getting Started<br>
 ### Dependencies
